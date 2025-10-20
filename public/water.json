@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure 1L Bottle",
+    "brand": "AquaPure",
+    "capacity": "1L",
+    "color": "Blue",
+    "price": 150,
+    "material": "Plastic",
+    "inStock": true,
+    "img": "https://m.media-amazon.com/images/I/61VQX3nA9bL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "HydroSteel Flask",
+    "brand": "HydroMate",
+    "capacity": "750ml",
+    "color": "Silver",
+    "price": 850,
+    "material": "Stainless Steel",
+    "inStock": true,
+    "img": "https://m.media-amazon.com/images/I/61FJm-l4YRL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CoolSip Bottle",
+    "brand": "CoolSip",
+    "capacity": "500ml",
+    "color": "Red",
+    "price": 120,
+    "material": "Plastic",
+    "inStock": false,
+    "img": "https://m.media-amazon.com/images/I/51A3MScv5GL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "EcoHydrate Glass Bottle",
+    "brand": "EcoHydrate",
+    "capacity": "1L",
+    "color": "Transparent",
+    "price": 450,
+    "material": "Glass",
+    "inStock": true,
+    "img": "https://m.media-amazon.com/images/I/61RHzjVlpPL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ChillPro Thermo",
+    "brand": "ChillPro",
+    "capacity": "1.2L",
+    "color": "Black",
+    "price": 950,
+    "material": "Metal",
+    "inStock": true,
+    "img": "https://m.media-amazon.com/images/I/61OeC-5FjLL._AC_SL1500_.jpg"
+  }
+]
