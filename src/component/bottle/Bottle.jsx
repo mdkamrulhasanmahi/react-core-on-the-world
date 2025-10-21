@@ -1,7 +1,7 @@
 import React from 'react';
 import './bottle.css'
 
-const Bottle = ({bottle}) => {
+const Bottle = ({bottle , Hendeleradd}) => {
     const {img , name , price , stock}=bottle;
     return (
         <div className='card1 bottle'>
@@ -9,6 +9,7 @@ const Bottle = ({bottle}) => {
            <h3>Name : {name}</h3>
            <p>price : {price}</p>
            <p>{stock} remanine</p>
+           <button onClick={()=>Hendeleradd(bottle)}>Buy now</button>
         </div>
     );
 };
