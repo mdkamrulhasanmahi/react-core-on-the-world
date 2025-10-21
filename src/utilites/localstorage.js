@@ -30,6 +30,7 @@ const removeFromLocalStorage = id => {
     const storedCart = getCartFromLocalStorage();
     const remainingCart = storedCart.filter(storedId => storedId !== id);
     saveCartToLocalStorage(remainingCart);
+    
 }
 
 // const add = (a, b) => a + b;
